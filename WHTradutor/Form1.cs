@@ -57,7 +57,8 @@ namespace WHTradutor
         {
             var txtsemlinhas = txtOriginal.Text.Replace("\n", "    ");
             txtsemlinhas = txtsemlinhas.Replace("#", "...");
-
+            txtsemlinhas = txtsemlinhas.Replace("&", "ATENÇÂO");
+            
             // Translation Data
             string translation = "";
 
