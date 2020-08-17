@@ -3,8 +3,8 @@
 Translate files like pdf, txt, md, etc. Allows set one language to another. In the demo there are Portuguese(BR), English, Japanese and German.
 
 <h2 align="center">
-  <img src="https://img.shields.io/badge/Desktop%3F-OK-blue" alt="Aplicativo mobile Ok" />
-  <img src="https://img.shields.io/github/license/matheusfelipeog/proffy?color=blue&style=for-the-badge" alt="License" />
+  <img src="https://img.shields.io/badge/Desktop%3F-OK-blue?style=for-the-badge" alt="mobile Ok" />
+  <img src="https://img.shields.io/badge/License-MIT-blue?color=blue&style=for-the-badge" alt="License" />
 </h2>
 
 ## 👅 Languages
