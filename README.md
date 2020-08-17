@@ -35,7 +35,7 @@ This project allow you to cunstomize your outputs and inputs, replacing words, d
 ## 📸 Visuals and Screenshots
 
 <p align="center">
-  <img src=".github/TextTradutor.gif" alt="GIF" width="100px" />
+  <img src=".github/TextTradutor.gif" alt="GIF" width="700px" />
 </p>
 
 ### Imagem PNG
