@@ -38,6 +38,29 @@ This project allow you to cunstomize your outputs and inputs, replacing words, d
   <img src=".github/TextTradutor.gif" alt="GIF" width="700px" />
 </p>
 
+## 🐛 Issues  
+
+> Feel free to register a new problem with its title and description in the Proffy repository.  
+> If you have already found a solution to your problem, I would love to review your pull request! 
+
+## 🤝 Contributions 
+
+Follow the steps below to contribute:
+
+1. *Fork* the project (<https://github.com/shyoutarou/TextTradutor.git>)
+
+2. Clone your *fork* to your machine (`git clone https://github.com/user_name/TextTradutor.git`)
+
+3. Create a *branch* to perform your modification (`git checkout -b feature/name_new_feature`)
+
+4. Add your modifications and *commit* (`git commit -m "Describe your modification"`)
+
+5. *Push* (`git push origin feature/name_new_feature`)
+
+6. Create a new *Pull Request*
+
+7. Okay, now just wait for the analysis
+
 ## Authors and acknowledgment
 
  <div align=center>
