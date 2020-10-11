@@ -10,8 +10,6 @@ Translate files like pdf, txt, md, etc. Allows set one language to another. In t
 ## 👅 Languages
 
 - [README in English](README-EN.md)
-- [README in German/Deustch](README-DE.md)
-- [README in Japanese](README-JA.md)
 
 ## 📌 Index
 <p align="center">
